@@ -11,5 +11,5 @@ Adding changes for example
 changes as part of automatic merge example
 
 ## Updates from Master
-
+Since I plan to edit the same file, this could cause a conflict.
 This is going to be painful, but we will deal with it.
