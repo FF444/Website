@@ -4,5 +4,5 @@ This is the readme file for this Project.
 
 ## Some Changes on Master
 
-There is some changes on the Master branch using the Windows
+Some foreign language text
 File explorer to manage Git Repositories.
