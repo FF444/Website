@@ -1,4 +1,3 @@
-ReadMe for Website Project <h1>
-================================
+# ReadMe for Website Project
 
-This is the *readme* file for this Project and it will be **updated** to occasionally when _needed_. This is *and example* of *italics*.
+ReadMe File For Website Project.
