@@ -4,6 +4,3 @@
 
 *Readme file updates
 
-## Older Changes
-
-* Added all files
